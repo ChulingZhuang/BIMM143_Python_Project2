@@ -1,4 +1,6 @@
 # BIMM143_Python_Project2
+*This is the first draft of Project2.
+
 Scientific question: Does the reduction of protein tyrosine phosphatase receptor type S (PTPRS) expression contribute to breast cancer tumorigenesis? If yes, is EGFR mediated EMT (epithelial-mesenchymal transition) pathway involved, or what other pathways are involved? 
 
 Scientific Hypothesis: If PTPRS is shown as a metastatic suppressor in hepatocellular carcinoma, then it may also exhibit a similar regulatory role in breast ductal carcinoma and the loss of PTPRS may also contribute to the breast cancer metastasis by regulating similar mediators like EGFR.
